@@ -1,10 +1,11 @@
 <resources>
     <color name="photo_placeholder">#ccc</color>
 
-    <color name="theme_primary">#04561A</color>
-    <color name="theme_primary_dark">#063011</color>
-    <color name="theme_accent">#071f8c</color>
+    <color name="theme_primary">#43a047</color>
+    <color name="theme_primary_dark">#1b5e20</color>
+    <color name="theme_accent">#3949ab</color>
     <color name="ltgray">#ffe0e0e0</color>
 
-    <color name="text_color">#808080</color>
+    <color name="text_color">#202020</color>
+    <color name="article_subtitle_text_color">#404040</color>
 </resources>
